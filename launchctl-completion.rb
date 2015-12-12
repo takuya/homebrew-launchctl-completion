@@ -5,9 +5,10 @@
 class LaunchctlCompletion < Formula
   desc "Bash completion for launchctl"
 
-  url "https://github.com/bobthecow/launchctl-completion"
+  url "https://github.com/bobthecow/launchctl-completion",
+    :revision => "f83bfbaa569d16f4951bae16aebff64fa498dfc7"
   
-  sha256 "8caad0106ab9ab5c858a35467ac9c24fabc1abc17ae4a9260339c2f084af9143"
+  sha256 "803f4851aff3aafddb4e01aae8f51dc70930cbd7e118102cd12e5b462db6f2d7"
 	
 	head "https://github.com/bobthecow/launchctl-completion.git"
 
