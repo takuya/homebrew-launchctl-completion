@@ -7,7 +7,7 @@ class LaunchctlCompletion < Formula
 
   url "https://github.com/bobthecow/launchctl-completion"
   
-  sha256 "f83bfbaa569d16f4951bae16aebff64fa498dfc7"
+  sha256 "8caad0106ab9ab5c858a35467ac9c24fabc1abc17ae4a9260339c2f084af9143"
 	
 	head "https://github.com/bobthecow/launchctl-completion.git"
 
