@@ -4,8 +4,9 @@
 
 class LaunchctlCompletion < Formula
   desc "Bash completion for launchctl"
+  homepage "https://github.com/mernen/completion-ruby"
 
-  url "https://github.com/bobthecow/launchctl-completion",
+  url "https://github.com/bobthecow/launchctl-completion.git",
     :revision => "f83bfbaa569d16f4951bae16aebff64fa498dfc7"
   
 	
